@@ -40,7 +40,7 @@
     text-decoration: underline;
 }
 .main_container{
-    background-image: url(/pictures/bground.jpg);
+    background-image: url(./pictures/bground.jpg);
     background-repeat: no-repeat;
     background-position: fixed;
 }
